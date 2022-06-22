@@ -4,7 +4,7 @@
 
 ### By: Avery Novick
 
-#### [Website](http://www.duckduckgo.com) | [GitHub](https://github.com/anovick1) | [LinkedIn](https://www.linkedin.com/in/michaelglackey/)
+#### [Website](http://www.duckduckgo.com) | [GitHub](https://github.com/anovick1) | [LinkedIn](https://www.linkedin.com/in/avery-novick-8651a7176/)
 
 ---
 
